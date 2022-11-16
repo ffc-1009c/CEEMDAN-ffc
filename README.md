@@ -1,2 +1,0 @@
-# CEEMDAN-ffc
-CEEMDAN!
