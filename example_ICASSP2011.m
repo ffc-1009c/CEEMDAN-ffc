@@ -11,18 +11,12 @@
 % used in the aboved mentioned paper
 %
 % -------------------------------------------------------------------------
-% Date: June 06,2011
-% Authors:  Torres ME, Colominas MA, Schlotthauer G, Flandrin P.
-% For problems with the code, please contact the authors:  
-% To:  macolominas(AT)bioingenieria.edu.ar 
-% CC:  metorres(AT)santafe-conicet.gov.ar
-% -------------------------------------------------------------------------
-%  This version was run on Matlab 7.10.0 (R2010a)
+
 %--------------------------------------------------------------------------
 clc;
 % clear all;
 load ('mydata.mat');
-% A=xlsread('E:\01实验\000时间序列\MATLAB中基于CEEDMAN与FastICA算法的单通道信号规律噪声的滤除方法\1111');
+% A=xlsread('E:\01瀹為獙\000鏃堕棿搴忓垪\MATLAB涓熀浜嶤EEDMAN涓嶧astICA绠楁硶鐨勫崟閫氶亾淇″彿瑙勫緥鍣０鐨勬护闄ゆ柟娉昞1111');
 A75=A(75,:);
 Nstd = 0.2;
 NR = 75;
