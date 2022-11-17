@@ -9,8 +9,6 @@
 % available at http://www.physionet.org/cgi-bin/atm/ATM.
 % The first 10 seconds of the first channel of the record 16265 has been
 % used in the aboved mentioned paper
-%
-% -------------------------------------------------------------------------
 
 %--------------------------------------------------------------------------
 clc;
